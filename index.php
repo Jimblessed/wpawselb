@@ -27,6 +27,7 @@ else
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p> 2023 will be a great year for me and my family! JESUS IS LORD OF ALL!</p>
     </section>
 
     <section class="instructions">
